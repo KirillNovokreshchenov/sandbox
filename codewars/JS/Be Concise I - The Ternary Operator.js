@@ -1,0 +1,1 @@
+function describeAge(a){return a<=12?"You're a(n) kid":a<=17?"You're a(n) teenager":a<=64?"You're a(n) adult":"You're a(n) elderly"}
